@@ -10,12 +10,20 @@
     color: var(--color-text-in-primary);
 }
 
-.logo-conteiner img {
+.logo-container img {
     height: 10rem;
+}
+
+.logo-container {
+    text-align: center;
+    margin-bottom: 3.2rem;
+}
+
+.logo-conteiner h2 {
+    font-weight: 500;
+    font-size: 3.6rem;
 }
 
 .hero-image {
     width: 100%;
 }
-
-.
